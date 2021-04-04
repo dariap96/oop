@@ -1,2 +1,2 @@
 # oop
-third uni semester oof projects (ITMO)
+third uni semester oop projects (ITMO)
