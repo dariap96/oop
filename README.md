@@ -1,5 +1,5 @@
 # oop
-third uni semester oop projects (ITMO)
+third semester oop projects (ITMO)
 
 lab2:  https://drive.google.com/file/d/1tIi2pzSzwMYN4u7QG-xUF0gzBSGUwWZB/view
 
